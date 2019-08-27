@@ -1,2 +1,0 @@
-# hexal
-web page
